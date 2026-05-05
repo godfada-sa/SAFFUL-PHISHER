@@ -1,6 +1,6 @@
-# TWISTPHISHER - ADVANCED CYBERSECURITY AWARENESS & PHISHING SIMULATION FRAMEWORK
+# SAFFULPHISHIER - ADVANCED CYBERSECURITY AWARENESS & PHISHING SIMULATION FRAMEWORK
 
-TWISTPHISHER is a modular, all-in-one cybersecurity training toolkit designed for defensive security education, red-team simulation, and awareness training environments.
+SAFFULPHISHIER is a modular, all-in-one cybersecurity training toolkit designed for defensive security education, red-team simulation, and awareness training environments.
 
 Fully self-contained and locally operated.No external API dependencies, no manual binary sourcing required. The framework automatically provisions and configures the required Cloudflare tunnel if it is not already present, ensuring seamless deployment and zero-friction setup.
 ---
