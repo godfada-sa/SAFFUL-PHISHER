@@ -120,7 +120,7 @@ Press `Ctrl+C` to stop the server and view a quick session summary.
 
 ## Legal Disclaimer
 
-TWIST PHISHER is strictly intended for authorized cybersecurity training, educational purposes, and controlled laboratory environments only. Any use of this software against individuals, systems, or networks without explicit prior consent is strictly prohibited and may violate local, national, or international laws.
+SAFFUL PHISHIER is strictly intended for authorized cybersecurity training, educational purposes, and controlled laboratory environments only. Any use of this software against individuals, systems, or networks without explicit prior consent is strictly prohibited and may violate local, national, or international laws.
 
 The end user bears full responsibility for ensuring compliance with all applicable regulations and laws governing their jurisdiction. The developers and contributors assume no liability or responsibility for any misuse, damage, or unlawful activity resulting from the use of this tool.
 
